@@ -31,14 +31,12 @@ The dataset used in this project is available here:
 ⭐ Features / Highlights
 
 🔹 Business Problem Addressed: 
-
-Organizations and policymakers need insights into:
-
-     1. EV population growth
-     2. State/region-wise distribution
-     3. Vehicle type analysis
-     4. Market trends
-
+     Organizations and policymakers need insights into:<br>
+      - EV population growth<br>
+      - State/region-wise distribution<br>
+      - Vehicle type analysis<br>
+      - Market trends<br>
+<br>
     
 🔹 Key Features:
  - Total EV count overview (KPIs)
